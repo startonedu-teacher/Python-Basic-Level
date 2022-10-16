@@ -1,0 +1,16 @@
+#Mercury
+#Venus
+#Earth
+#Mars
+#Jupiter
+#Saturn
+#Uranus
+#Neptune
+0.39
+0.72
+1.00
+1.52
+5.20
+9.58
+19.20
+30.05
