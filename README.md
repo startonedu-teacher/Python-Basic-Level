@@ -9,5 +9,7 @@ When you finish the homework or when you have a finished homework somebody provi
 
 ## How to contact me?
 You can call me if you have my cell phone number. If not, please write any homework related questions to startonedu003@gmail.com
+
 If you have github questions, you can check this website for learning: https://docs.github.com/en/get-started/quickstart/hello-world
+
 If you have tuition fee or register questions, please contact our frontdesk or send mail to startonedu001@gmail.com
